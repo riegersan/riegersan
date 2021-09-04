@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sebastian
-- 👀 I’m interested programming 🤓, diving 🥽 and other water related things 🏄‍♂️ 🏊
+- 👀 I’m interested in programming 🤓, diving 🥽 and other water related things 🏄‍♂️ 🏊
 - 🌱 I’m currently learning Kotlin, Android, Springboot and Swift
-- 💞️ I’m looking to collaborate on new things and learning in mob 
+- 💞️ I’m looking to collaborate on new things and learning while mob programming 
 - 📫 You can find me on Twitter @rieger_san
 
 <!---
