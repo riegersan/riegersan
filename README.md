@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 🤓, diving 🥽 and other water related things 🏄‍♂️ 🏊
 - 🌱 I’m currently learning Kotlin, Android, Springboot and Swift
 - 💞️ I’m looking to collaborate on new things and learning while mob programming 
-- 📫 You can find and contact me on Twitter @rieger_san DMs are open
+- 📫 You can write me a mail [rieger_san@icloud.com](rieger_san@icloud.com)
 - 🖥 [riegersan.com](https://riegersan.com)
 
 <!---
